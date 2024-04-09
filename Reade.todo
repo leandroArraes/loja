@@ -1,0 +1,18 @@
+Start no projeto 
+npm run start:dev
+
+
+Docker 
+    terminal do vscode
+        -> open folder container 
+        -> selecionar docker compose 
+        -> incluir terminal ZSH
+        -> commom utilits
+        -> shell history
+        
+
+
+criar projeto nest js 
+    criar um controler
+    Criar um controler Produto
+    Crie os end ponts de post get , get(id) , put , path e delete
